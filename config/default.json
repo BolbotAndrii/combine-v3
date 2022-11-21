@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://root:eifhfef&^fei3rEF@cluster0.klaive4.mongodb.net/?retryWrites=true&w=majority",
+  "dbUser": "root",
+  "dbPassword": "eifhfef&^fei3rEF"
+}
